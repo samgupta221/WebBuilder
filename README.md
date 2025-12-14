@@ -117,11 +117,3 @@ WebBuilder/
 5. Download or inspect the generated code.
 
 ---
-
-## 📌 Example Prompts
-
-* “Create a landing page for a startup with pricing and testimonials.”
-* “Build a personal blog with a clean layout and sidebar.”
-* “Design an e-commerce homepage with product cards.”
-* 
----
