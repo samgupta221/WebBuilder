@@ -125,6 +125,3 @@ WebBuilder/
 * “Design an e-commerce homepage with product cards.”
 * 
 ---
-
-
-Just tell me 👍
