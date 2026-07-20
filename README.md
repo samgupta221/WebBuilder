@@ -1,44 +1,91 @@
-# 🌐 WebBuilder
+# 🚀 WebBuilder – AI-Powered Website Builder
 
-**WebBuilder** is an AI-powered website generator that allows users to create beautiful, responsive websites simply by describing them in natural language. The application converts user input into fully functional HTML, CSS, and JavaScript with a live preview and export options.
+An AI-powered website builder that generates complete websites from natural language prompts. Simply describe the website you want, and **WebBuilder** creates a responsive webpage with a live preview, code viewer, and downloadable HTML output.
+
+## ✨ Features
+
+- 🤖 AI-powered website generation from text prompts
+- 🎨 Modern and responsive UI
+- 🌙 Dark/Light mode support
+- 👤 User Authentication
+- ⚡ Live website preview
+- 👀 View generated HTML/CSS code
+- 📥 Download generated website
+- 🔗 Open generated website in a new tab
+- 📱 Responsive design for desktop and mobile
+- 💬 Simple prompt-based interface
 
 ---
-
-## 🚀 Features
-
-* ✨ **AI-Powered Website Generation**
-  Describe your website in plain English and let AI generate the code automatically.
-
-* 👀 **Live Preview**
-  Instantly view the generated website inside the app.
-
-* 📄 **Code Viewer**
-  Inspect the generated HTML, CSS, and JavaScript code.
-
-* ⬇️ **Download Website**
-  Export the generated website files for local use or deployment.
-
-* 🧩 **Responsive Layouts**
-  Generated websites are optimized for desktop, tablet, and mobile devices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:**
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- Axios
 
-  * HTML5
-  * CSS3
-  * JavaScript (ES6+)
+### Backend
+- Node.js
+- Express.js
 
-* **Backend (Optional / AI Integration):**
+### AI Integration
+- Google Gemini API
 
-  * Node.js
-  * Express.js
-  * AI API (OpenAI or similar)
+### Other Tools
+- Git & GitHub
 
-* **UI Styling:**
+---
 
-  * Custom CSS / Tailwind CSS (if applicable)
+## 📂 Project Structure
+
+```
+WebBuilder
+│── client/
+│── server/
+│── screenshots/
+│── README.md
+```
+---
+
+## 💡 How It Works
+
+1. Enter a detailed website description.
+2. Click **Generate**.
+3. AI generates the website code.
+4. Preview the generated website instantly.
+5. View the generated HTML/CSS.
+6. Open the website in a new tab.
+7. Download the generated website.
+
+---
+
+## 📌 Example Prompt
+
+```
+Create a modern portfolio website for a software developer with:
+- Hero section
+- About section
+- Skills
+- Projects
+- Contact form
+- Dark theme
+- Responsive layout
+```
+
+---
+
+## 📁 Key Features
+
+- Prompt-based website generation
+- Live Preview
+- Code Viewer
+- Download Website
+- Responsive Layout
+- Authentication
+- Theme Toggle
 
 ---
